@@ -1,4 +1,4 @@
-# Monte_Carlo_Stocks
+# Monte Carlo Stocks
 An IPython notebook demonstrating Monte Carlo simulations of stock prices
 
 This is a project I created to learn more about Python and Monte Carlo simulations.
